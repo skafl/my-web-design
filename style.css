@@ -1,10 +1,11 @@
 
+
 /* Text begins */
   h1
   {
-  color:black;
+  color:white;
   display: inline-block;
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   }
 
@@ -87,18 +88,23 @@ input{
 /* Image starts */
 img
 {
-  max-width: 50%;
+  max-width: 30%;
 }
 .Welcome-web
     {
       max-width: 15%;
       background: lightblue;
-
-
-
 }
 .image{
+  size:20%;
   max-width: 30%;
+  border-radius: 50%;
+  align-items: left;
+}
+.www{
+  max-height: 30%;
+  border-radius: 30%;
+  width: 20%;
 }
 /* Image ends */
 
